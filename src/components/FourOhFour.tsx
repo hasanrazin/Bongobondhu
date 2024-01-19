@@ -26,11 +26,11 @@ const FourOhFour: React.FC<{ errorMsg: string }> = ({ errorMsg }) => {
             and open devtools for more details, or seek help at{' '}
             <a
               className="text-blue-600 hover:text-blue-700 hover:underline"
-              href="https://telegram.me/ZinFlix"
+              href="https://telegram.me/@BongoBondhuSheikhMujiburRahman"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Zinflix discussions
+             Contract Us
             </a>
             .
           </Trans>
