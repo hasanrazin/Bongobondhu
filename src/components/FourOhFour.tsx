@@ -26,11 +26,11 @@ const FourOhFour: React.FC<{ errorMsg: string }> = ({ errorMsg }) => {
             and open devtools for more details, or seek help at{' '}
             <a
               className="text-blue-600 hover:text-blue-700 hover:underline"
-              href="https://telegram.me/BongoBondhuSheikhMujiburRahman"
+              href="https://telegram.me/BongoBondhuSheikhMujiburrahman"
               target="_blank"
               rel="noopener noreferrer"
             >
-             Contract Us
+              onedrive-vercel-index discussions
             </a>
             .
           </Trans>
@@ -41,5 +41,3 @@ const FourOhFour: React.FC<{ errorMsg: string }> = ({ errorMsg }) => {
 }
 
 export default FourOhFour
-
-  
